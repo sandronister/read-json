@@ -1,4 +1,4 @@
-package user_repository
+package user
 
 import (
 	"encoding/json"
