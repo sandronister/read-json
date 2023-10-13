@@ -8,6 +8,6 @@ import (
 
 func main() {
 	user.Init()
-	user := user.Search("Elliot")
-	fmt.Print(user)
+	founded := user.Search("Elliot")
+	fmt.Print(founded)
 }
